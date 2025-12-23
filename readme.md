@@ -20,10 +20,6 @@ If logging is enabled, a new segment in the settings panel will show up with a 3
 
 For more information, please see the [project wiki on GitHub][wiki].
 
-<p align="center">
-  <a href="https://gitpod.io/#https://github.com/soup-bowl/simple-smtp"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" /></a>
-</p>
-
 ## Download
 
 To download this plugin for your WordPress site, you can either [download it from the WordPress.org Plugin Directory](https://wordpress.org/plugins/simple-smtp/), or [visit the releases page](https://github.com/soup-bowl/simple-smtp/releases/latest) to download and install it manually. 
