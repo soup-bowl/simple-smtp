@@ -1,4 +1,4 @@
-FROM docker.io/wordpress:php8.0-apache
+FROM docker.io/wordpress:php8.4-apache
 
 RUN chmod 777 /var/log/apache2
 
